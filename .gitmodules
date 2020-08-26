@@ -1,0 +1,6 @@
+[submodule "libs/stb"]
+	path = libs/stb
+	url = https://github.com/nothings/stb.git
+[submodule "libs/cuda-samples"]
+	path = libs/cuda-samples
+	url = https://github.com/NVIDIA/cuda-samples.git
